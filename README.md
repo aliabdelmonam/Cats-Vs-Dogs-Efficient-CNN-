@@ -31,6 +31,3 @@ After EfficientNet, the following layers were added:
 ## Results
 
 - **Final Accuracy**: 99.5%
-  
-## Link Notebook
--  [kaggle Notebook]()
